@@ -8,7 +8,7 @@ $ pkg install git
 
 $ pkg install bs4
 
-$ git clone https://git.hub/AMIRXPLOID/logcokie
+$ git clone https://github.com/AMIRXPLOID/logcokie
 
 $ cd logcokie
 
